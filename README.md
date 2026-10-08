@@ -56,7 +56,11 @@ The project aims to improve detection accuracy across all 10 traffic-related cla
 
 ## Results
 
-<img width="256" height="256" alt="F1_curve" src="https://github.com/user-attachments/assets/9100d5b7-e8c4-40ed-8928-3c17b194be4e" /> <img width="256" height="256" alt="PR_curve" src="https://github.com/user-attachments/assets/20d3d0c5-a0a5-48e6-950c-acdc01179f37" />
+<img width="256" height="256" alt="F1_curve" src="https://github.com/user-attachments/assets/9100d5b7-e8c4-40ed-8928-3c17b194be4e" /> <img width="256" height="256" alt="PR_curve" src="https://github.com/user-attachments/assets/20d3d0c5-a0a5-48e6-950c-acdc01179f37" /> <img width="256" height="256" alt="R_curve" src="https://github.com/user-attachments/assets/5551b674-96ae-43e1-88c3-ba2381f0858d" />
+
+<img width="256" height="256" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/1ddff5fd-0c2a-4801-af71-cdefb9c02bd4" />
+
+
 
 
 
