@@ -54,6 +54,15 @@ The project aims to improve detection accuracy across all 10 traffic-related cla
 | 8 | Bus |
 | 9 | Motor |
 
+## Results
+
+<img width="256" height="256" alt="F1_curve" src="https://github.com/user-attachments/assets/9100d5b7-e8c4-40ed-8928-3c17b194be4e" /> <img width="256" height="256" alt="PR_curve" src="https://github.com/user-attachments/assets/20d3d0c5-a0a5-48e6-950c-acdc01179f37" />
+
+
+
+
+
+
 ## Project Architecture
 
 The system follows a modular workflow:
